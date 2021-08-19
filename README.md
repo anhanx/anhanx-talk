@@ -1,2 +1,2 @@
 # anhanx-talk
-anhanx.gitee.io的gitalk评论库
+[博客](http://anhanx.gitee.io)的gitalk评论库
